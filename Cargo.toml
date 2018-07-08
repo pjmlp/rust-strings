@@ -1,0 +1,7 @@
+[package]
+name = "rust-strings"
+version = "0.1.0"
+authors = ["pjmlp <pjmlp@progtools.org>"]
+
+[dependencies]
+num = "0.2.0"
