@@ -17,7 +17,7 @@
  * Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
  */
 
-extern crate num;
+use num;
 
 use std::io::{self, BufRead, Stdin};
 
